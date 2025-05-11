@@ -5,3 +5,8 @@ body{
     text-align: center;
     background-color: turquoise;
 }
+img{
+    height: 70px;
+    width: 70px;
+    object-fit: cover;
+}
