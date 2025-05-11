@@ -22,8 +22,9 @@ img{
     max-height: auto;
 }
 button{
-    display: block;
     margin: 20px auto;
     padding:10px 20px;
     cursor: pointer;
+    translate-x: 50%;
+    translate-y: 28%;
 }
