@@ -11,6 +11,16 @@ img{
     border-radius: 50%;
     object-fit: cover;
 }
+#imageContainer{
+    display:flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+#imageContainer img{
+    max-width: 150px;
+    max-height: auto;
+}
 button{
     display: block;
     margin: 20px auto;
