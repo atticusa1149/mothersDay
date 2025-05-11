@@ -6,7 +6,8 @@ body{
     background-color: turquoise;
 }
 img{
-    height: 70px;
-    width: 70px;
+    height: 210px;
+    width: 210px;
+    border-radius: 50%;
     object-fit: cover;
 }
