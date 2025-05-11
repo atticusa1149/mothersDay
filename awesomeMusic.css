@@ -1,0 +1,10 @@
+#pic2{
+    transform: translateX(25%) translateY(10%);
+    position: absolute;
+    z-index: -1;
+}
+#pic3{
+    transform: translateX(-25%) translateY(10%);
+    position: absolute;
+    z-index: 1;
+}
