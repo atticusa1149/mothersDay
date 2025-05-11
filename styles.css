@@ -8,7 +8,7 @@ body{
 img{
     height: 210px;
     width: 210px;
-    border-radius: 50%;
+    border-radius: 100%;
     object-fit: cover;
 }
 #imageContainer{
@@ -25,6 +25,8 @@ button{
     margin: 20px auto;
     padding:10px 20px;
     cursor: pointer;
+}
+#gaButton{
+    translate-y: 30%;
     translate-x: 50%;
-    translate-y: 28%;
 }
